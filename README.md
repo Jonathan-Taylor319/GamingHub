@@ -1,6 +1,6 @@
 # GamingHub
-work on my javascript and start simple waste of time games
+working on my javascript and start simple waste of time games
 
-goin to start with a simple rock / paper scissors
+going to start with a simple rock / paper scissors
 
 
